@@ -1,5 +1,5 @@
 # nlw-esports-explorer
 Curso intensivo para uma home page usando as tecnologias:
-HTML
-CSS
+HTML,
+CSS e 
 JAVASCRIPT
